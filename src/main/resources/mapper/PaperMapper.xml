@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.shwlong.qsn.dao.PaperMapper">
+    <update id="updatePaperById" parameterType="com.shwlong.qsn.entity.PaperEntity">
+        UPDATE paper
+        <set>
+            user_id=#{userId},
+            paper_title=#{paperTitle},
+            paper_footer=#{paperFooter},
+            paper_status=#{paperStatus},
+            start_time=#{startTime},
+            end_time=#{endTime}
+        </set>
+        WHERE id=#{id}
+    </update>
+
+    <update id="updatePaperStatusById" parameterType="integer">
+        UPDATE paper
+        <set>
+            paper_status=#{pub}
+        </set>
+        WHERE id=#{id}
+    </update>
+
+    <update id="updateSubmitPersonByPaperId" parameterType="integer">
+        UPDATE paper
+        <set>
+            submit_person=submit_person+1
+        </set>
+        WHERE id=#{id}
+    </update>
+
+    <update id="updatePaperEndTimeById">
+        UPDATE paper
+        <set>
+            end_time=#{date}
+        </set>
+        WHERE id=#{id}
+    </update>
+</mapper>
