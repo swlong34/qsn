@@ -23,16 +23,16 @@
 
 ### 运行截图
 
-![image-20220822143030788](D:\workData\javaweb\qsn-university\qsn\file\image-20220822143030788.png)
+![image-20220822143030788](https://github.com/shwlong/img/blob/main/images/image-20220822143030788.png)
 
-![image-20220822143152982](D:\workData\javaweb\qsn-university\qsn\file\image-20220822143152982.png)
+![image-20220822143152982](https://github.com/shwlong/img/blob/main/images/image-20220822143152982.png)
 
-![image-20220822143547350](D:\workData\javaweb\qsn-university\qsn\file\image-20220822143547350.png)
+![image-20220822143547350](https://github.com/shwlong/img/blob/main/images/image-20220822143547350.png)
 
-![image-20220822143635108](D:\workData\javaweb\qsn-university\qsn\file\image-20220822143635108.png)
+![image-20220822143635108](https://github.com/shwlong/img/blob/main/images/image-20220822143635108.png)
 
-![image-20220822143711806](D:\workData\javaweb\qsn-university\qsn\file\image-20220822143711806.png)
+![image-20220822143711806](https://github.com/shwlong/img/blob/main/images/image-20220822143711806.png)
 
-![image-20220822143759357](D:\workData\javaweb\qsn-university\qsn\file\image-20220822143759357.png)
+![image-20220822143759357](https://github.com/shwlong/img/blob/main/images/image-20220822143759357.png)
 
-![image-20220822143834219](D:\workData\javaweb\qsn-university\qsn\file\image-20220822143834219.png)
+![image-20220822143834219](https://github.com/shwlong/img/blob/main/images/image-20220822143834219.png)
